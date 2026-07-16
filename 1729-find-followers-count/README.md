@@ -8,7 +8,7 @@
 | follower_id | int  |
 +-------------+------+
 (user_id, follower_id) is the primary key (combination of columns with unique values) for this table.
-This table contains the IDs of a user and a follower in a social media app where the follower follows the user.</pre>
+This table contains the IDs of a user and a follower in a social media app where the follower follows the user..</pre>
 
 <p>&nbsp;</p>
 
