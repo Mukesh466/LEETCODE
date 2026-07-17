@@ -4,5 +4,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Database
 |  |
 | ------- |
+| [0196-delete-duplicate-emails](https://github.com/Mukesh466/LEETCODE/tree/master/0196-delete-duplicate-emails) |
 | [1978-employees-whose-manager-left-the-company](https://github.com/Mukesh466/LEETCODE/tree/master/1978-employees-whose-manager-left-the-company) |
 <!---LeetCode Topics End-->
