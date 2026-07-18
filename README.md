@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Database
 |  |
 | ------- |
+| [0184-department-highest-salary](https://github.com/Mukesh466/LEETCODE/tree/master/0184-department-highest-salary) |
 | [0196-delete-duplicate-emails](https://github.com/Mukesh466/LEETCODE/tree/master/0196-delete-duplicate-emails) |
 | [1527-patients-with-a-condition](https://github.com/Mukesh466/LEETCODE/tree/master/1527-patients-with-a-condition) |
 | [1873-calculate-special-bonus](https://github.com/Mukesh466/LEETCODE/tree/master/1873-calculate-special-bonus) |
