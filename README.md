@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/Mukesh466/LEETCODE/tree/master/0283-move-zeroes) |
 | [1004-max-consecutive-ones-iii](https://github.com/Mukesh466/LEETCODE/tree/master/1004-max-consecutive-ones-iii) |
 | [1732-find-the-highest-altitude](https://github.com/Mukesh466/LEETCODE/tree/master/1732-find-the-highest-altitude) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/Mukesh466/LEETCODE/tree/master/1979-find-greatest-common-divisor-of-array) |
 ## Two Pointers
 |  |
 | ------- |
@@ -31,4 +32,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1004-max-consecutive-ones-iii](https://github.com/Mukesh466/LEETCODE/tree/master/1004-max-consecutive-ones-iii) |
+## Math
+|  |
+| ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/Mukesh466/LEETCODE/tree/master/1979-find-greatest-common-divisor-of-array) |
+## Number Theory
+|  |
+| ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/Mukesh466/LEETCODE/tree/master/1979-find-greatest-common-divisor-of-array) |
 <!---LeetCode Topics End-->
