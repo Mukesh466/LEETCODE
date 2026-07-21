@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0371-sum-of-two-integers](https://github.com/Mukesh466/LEETCODE/tree/master/0371-sum-of-two-integers) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Mukesh466/LEETCODE/tree/master/1979-find-greatest-common-divisor-of-array) |
 ## Number Theory
 |  |
@@ -68,4 +69,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Mukesh466/LEETCODE/tree/master/0104-maximum-depth-of-binary-tree) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0371-sum-of-two-integers](https://github.com/Mukesh466/LEETCODE/tree/master/0371-sum-of-two-integers) |
 <!---LeetCode Topics End-->
