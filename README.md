@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0283-move-zeroes](https://github.com/Mukesh466/LEETCODE/tree/master/0283-move-zeroes) |
+| [1768-merge-strings-alternately](https://github.com/Mukesh466/LEETCODE/tree/master/1768-merge-strings-alternately) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -82,4 +83,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/Mukesh466/LEETCODE/tree/master/0206-reverse-linked-list) |
+## String
+|  |
+| ------- |
+| [1768-merge-strings-alternately](https://github.com/Mukesh466/LEETCODE/tree/master/1768-merge-strings-alternately) |
 <!---LeetCode Topics End-->
