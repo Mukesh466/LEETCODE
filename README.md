@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0196-delete-duplicate-emails](https://github.com/Mukesh466/LEETCODE/tree/master/0196-delete-duplicate-emails) |
 | [0627-swap-sex-of-employees](https://github.com/Mukesh466/LEETCODE/tree/master/0627-swap-sex-of-employees) |
 | [1141-user-activity-for-the-past-30-days-i](https://github.com/Mukesh466/LEETCODE/tree/master/1141-user-activity-for-the-past-30-days-i) |
+| [1327-list-the-products-ordered-in-a-period](https://github.com/Mukesh466/LEETCODE/tree/master/1327-list-the-products-ordered-in-a-period) |
 | [1527-patients-with-a-condition](https://github.com/Mukesh466/LEETCODE/tree/master/1527-patients-with-a-condition) |
 | [1873-calculate-special-bonus](https://github.com/Mukesh466/LEETCODE/tree/master/1873-calculate-special-bonus) |
 | [1978-employees-whose-manager-left-the-company](https://github.com/Mukesh466/LEETCODE/tree/master/1978-employees-whose-manager-left-the-company) |
