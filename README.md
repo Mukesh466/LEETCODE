@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0184-department-highest-salary](https://github.com/Mukesh466/LEETCODE/tree/master/0184-department-highest-salary) |
 | [0196-delete-duplicate-emails](https://github.com/Mukesh466/LEETCODE/tree/master/0196-delete-duplicate-emails) |
+| [0626-exchange-seats](https://github.com/Mukesh466/LEETCODE/tree/master/0626-exchange-seats) |
 | [0627-swap-sex-of-employees](https://github.com/Mukesh466/LEETCODE/tree/master/0627-swap-sex-of-employees) |
 | [1141-user-activity-for-the-past-30-days-i](https://github.com/Mukesh466/LEETCODE/tree/master/1141-user-activity-for-the-past-30-days-i) |
 | [1327-list-the-products-ordered-in-a-period](https://github.com/Mukesh466/LEETCODE/tree/master/1327-list-the-products-ordered-in-a-period) |
