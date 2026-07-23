@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0283-move-zeroes](https://github.com/Mukesh466/LEETCODE/tree/master/0283-move-zeroes) |
+| [0334-increasing-triplet-subsequence](https://github.com/Mukesh466/LEETCODE/tree/master/0334-increasing-triplet-subsequence) |
 | [1004-max-consecutive-ones-iii](https://github.com/Mukesh466/LEETCODE/tree/master/1004-max-consecutive-ones-iii) |
 | [1051-height-checker](https://github.com/Mukesh466/LEETCODE/tree/master/1051-height-checker) |
 | [1732-find-the-highest-altitude](https://github.com/Mukesh466/LEETCODE/tree/master/1732-find-the-highest-altitude) |
@@ -100,4 +101,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2390-removing-stars-from-a-string](https://github.com/Mukesh466/LEETCODE/tree/master/2390-removing-stars-from-a-string) |
+## Greedy
+|  |
+| ------- |
+| [0334-increasing-triplet-subsequence](https://github.com/Mukesh466/LEETCODE/tree/master/0334-increasing-triplet-subsequence) |
 <!---LeetCode Topics End-->
