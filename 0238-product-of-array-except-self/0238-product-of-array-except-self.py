@@ -9,5 +9,4 @@ class Solution:
         for j in range(len(nums)-1,-1,-1):
             res[j] *= suffix
             suffix *= nums[j]
-        return res 
-        
+        return res
