@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0136-single-number](https://github.com/Mukesh466/LEETCODE/tree/master/0136-single-number) |
 | [0238-product-of-array-except-self](https://github.com/Mukesh466/LEETCODE/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/Mukesh466/LEETCODE/tree/master/0283-move-zeroes) |
 | [0334-increasing-triplet-subsequence](https://github.com/Mukesh466/LEETCODE/tree/master/0334-increasing-triplet-subsequence) |
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0136-single-number](https://github.com/Mukesh466/LEETCODE/tree/master/0136-single-number) |
 | [0371-sum-of-two-integers](https://github.com/Mukesh466/LEETCODE/tree/master/0371-sum-of-two-integers) |
 ## Linked List
 |  |
