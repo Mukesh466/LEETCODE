@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/Mukesh466/LEETCODE/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/Mukesh466/LEETCODE/tree/master/0283-move-zeroes) |
 | [0334-increasing-triplet-subsequence](https://github.com/Mukesh466/LEETCODE/tree/master/0334-increasing-triplet-subsequence) |
+| [0628-maximum-product-of-three-numbers](https://github.com/Mukesh466/LEETCODE/tree/master/0628-maximum-product-of-three-numbers) |
 | [1004-max-consecutive-ones-iii](https://github.com/Mukesh466/LEETCODE/tree/master/1004-max-consecutive-ones-iii) |
 | [1051-height-checker](https://github.com/Mukesh466/LEETCODE/tree/master/1051-height-checker) |
 | [1732-find-the-highest-altitude](https://github.com/Mukesh466/LEETCODE/tree/master/1732-find-the-highest-altitude) |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0371-sum-of-two-integers](https://github.com/Mukesh466/LEETCODE/tree/master/0371-sum-of-two-integers) |
+| [0628-maximum-product-of-three-numbers](https://github.com/Mukesh466/LEETCODE/tree/master/0628-maximum-product-of-three-numbers) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/Mukesh466/LEETCODE/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Mukesh466/LEETCODE/tree/master/1979-find-greatest-common-divisor-of-array) |
 ## Number Theory
@@ -61,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0628-maximum-product-of-three-numbers](https://github.com/Mukesh466/LEETCODE/tree/master/0628-maximum-product-of-three-numbers) |
 | [1051-height-checker](https://github.com/Mukesh466/LEETCODE/tree/master/1051-height-checker) |
 ## Counting Sort
 |  |
