@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0180-consecutive-numbers](https://github.com/Mukesh466/LEETCODE/tree/master/0180-consecutive-numbers) |
 | [0184-department-highest-salary](https://github.com/Mukesh466/LEETCODE/tree/master/0184-department-highest-salary) |
 | [0196-delete-duplicate-emails](https://github.com/Mukesh466/LEETCODE/tree/master/0196-delete-duplicate-emails) |
+| [0550-game-play-analysis-iv](https://github.com/Mukesh466/LEETCODE/tree/master/0550-game-play-analysis-iv) |
 | [0619-biggest-single-number](https://github.com/Mukesh466/LEETCODE/tree/master/0619-biggest-single-number) |
 | [0626-exchange-seats](https://github.com/Mukesh466/LEETCODE/tree/master/0626-exchange-seats) |
 | [0627-swap-sex-of-employees](https://github.com/Mukesh466/LEETCODE/tree/master/0627-swap-sex-of-employees) |
