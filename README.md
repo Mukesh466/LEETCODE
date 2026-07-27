@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1051-height-checker](https://github.com/Mukesh466/LEETCODE/tree/master/1051-height-checker) |
 | [1732-find-the-highest-altitude](https://github.com/Mukesh466/LEETCODE/tree/master/1732-find-the-highest-altitude) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Mukesh466/LEETCODE/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2215-find-the-difference-of-two-arrays](https://github.com/Mukesh466/LEETCODE/tree/master/2215-find-the-difference-of-two-arrays) |
 ## Two Pointers
 |  |
 | ------- |
@@ -122,4 +123,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0334-increasing-triplet-subsequence](https://github.com/Mukesh466/LEETCODE/tree/master/0334-increasing-triplet-subsequence) |
+## Hash Table
+|  |
+| ------- |
+| [2215-find-the-difference-of-two-arrays](https://github.com/Mukesh466/LEETCODE/tree/master/2215-find-the-difference-of-two-arrays) |
 <!---LeetCode Topics End-->
