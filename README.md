@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Mukesh466/LEETCODE/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Mukesh466/LEETCODE/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0136-single-number](https://github.com/Mukesh466/LEETCODE/tree/master/0136-single-number) |
+| [0189-rotate-array](https://github.com/Mukesh466/LEETCODE/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/Mukesh466/LEETCODE/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/Mukesh466/LEETCODE/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/Mukesh466/LEETCODE/tree/master/0283-move-zeroes) |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Mukesh466/LEETCODE/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Mukesh466/LEETCODE/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0151-reverse-words-in-a-string](https://github.com/Mukesh466/LEETCODE/tree/master/0151-reverse-words-in-a-string) |
+| [0189-rotate-array](https://github.com/Mukesh466/LEETCODE/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Mukesh466/LEETCODE/tree/master/0283-move-zeroes) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Mukesh466/LEETCODE/tree/master/0345-reverse-vowels-of-a-string) |
 | [1768-merge-strings-alternately](https://github.com/Mukesh466/LEETCODE/tree/master/1768-merge-strings-alternately) |
@@ -59,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0189-rotate-array](https://github.com/Mukesh466/LEETCODE/tree/master/0189-rotate-array) |
 | [0371-sum-of-two-integers](https://github.com/Mukesh466/LEETCODE/tree/master/0371-sum-of-two-integers) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Mukesh466/LEETCODE/tree/master/0628-maximum-product-of-three-numbers) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/Mukesh466/LEETCODE/tree/master/1071-greatest-common-divisor-of-strings) |
