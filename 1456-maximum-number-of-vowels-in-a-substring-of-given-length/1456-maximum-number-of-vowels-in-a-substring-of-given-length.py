@@ -13,6 +13,4 @@ class Solution:
                 curr -=1
             maxi=max(maxi,curr)
         return maxi
-
-        return count
         
