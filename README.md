@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1193-monthly-transactions-i](https://github.com/Mukesh466/LEETCODE/tree/master/1193-monthly-transactions-i) |
 | [1327-list-the-products-ordered-in-a-period](https://github.com/Mukesh466/LEETCODE/tree/master/1327-list-the-products-ordered-in-a-period) |
 | [1341-movie-rating](https://github.com/Mukesh466/LEETCODE/tree/master/1341-movie-rating) |
+| [1484-group-sold-products-by-the-date](https://github.com/Mukesh466/LEETCODE/tree/master/1484-group-sold-products-by-the-date) |
 | [1527-patients-with-a-condition](https://github.com/Mukesh466/LEETCODE/tree/master/1527-patients-with-a-condition) |
 | [1789-primary-department-for-each-employee](https://github.com/Mukesh466/LEETCODE/tree/master/1789-primary-department-for-each-employee) |
 | [1873-calculate-special-bonus](https://github.com/Mukesh466/LEETCODE/tree/master/1873-calculate-special-bonus) |
