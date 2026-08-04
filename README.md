@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1732-find-the-highest-altitude](https://github.com/Mukesh466/LEETCODE/tree/master/1732-find-the-highest-altitude) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Mukesh466/LEETCODE/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/Mukesh466/LEETCODE/tree/master/2215-find-the-difference-of-two-arrays) |
+| [3731-find-missing-elements](https://github.com/Mukesh466/LEETCODE/tree/master/3731-find-missing-elements) |
 ## Two Pointers
 |  |
 | ------- |
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/Mukesh466/LEETCODE/tree/master/0628-maximum-product-of-three-numbers) |
 | [1051-height-checker](https://github.com/Mukesh466/LEETCODE/tree/master/1051-height-checker) |
 | [1657-determine-if-two-strings-are-close](https://github.com/Mukesh466/LEETCODE/tree/master/1657-determine-if-two-strings-are-close) |
+| [3731-find-missing-elements](https://github.com/Mukesh466/LEETCODE/tree/master/3731-find-missing-elements) |
 ## Counting Sort
 |  |
 | ------- |
@@ -160,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1207-unique-number-of-occurrences](https://github.com/Mukesh466/LEETCODE/tree/master/1207-unique-number-of-occurrences) |
 | [1657-determine-if-two-strings-are-close](https://github.com/Mukesh466/LEETCODE/tree/master/1657-determine-if-two-strings-are-close) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/Mukesh466/LEETCODE/tree/master/2215-find-the-difference-of-two-arrays) |
+| [3731-find-missing-elements](https://github.com/Mukesh466/LEETCODE/tree/master/3731-find-missing-elements) |
 ## String Matching
 |  |
 | ------- |
