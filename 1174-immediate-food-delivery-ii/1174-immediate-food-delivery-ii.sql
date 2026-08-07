@@ -1,4 +1,3 @@
-# Write your MySQL query statement below
 with ref as (select delivery_id,customer_id,
 order_date=customer_pref_delivery_date as immediate
 from Delivery 
