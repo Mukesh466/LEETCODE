@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0627-swap-sex-of-employees](https://github.com/Mukesh466/LEETCODE/tree/master/0627-swap-sex-of-employees) |
 | [1045-customers-who-bought-all-products](https://github.com/Mukesh466/LEETCODE/tree/master/1045-customers-who-bought-all-products) |
 | [1141-user-activity-for-the-past-30-days-i](https://github.com/Mukesh466/LEETCODE/tree/master/1141-user-activity-for-the-past-30-days-i) |
+| [1174-immediate-food-delivery-ii](https://github.com/Mukesh466/LEETCODE/tree/master/1174-immediate-food-delivery-ii) |
 | [1193-monthly-transactions-i](https://github.com/Mukesh466/LEETCODE/tree/master/1193-monthly-transactions-i) |
 | [1204-last-person-to-fit-in-the-bus](https://github.com/Mukesh466/LEETCODE/tree/master/1204-last-person-to-fit-in-the-bus) |
 | [1211-queries-quality-and-percentage](https://github.com/Mukesh466/LEETCODE/tree/master/1211-queries-quality-and-percentage) |
