@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/Mukesh466/LEETCODE/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/Mukesh466/LEETCODE/tree/master/0283-move-zeroes) |
 | [0334-increasing-triplet-subsequence](https://github.com/Mukesh466/LEETCODE/tree/master/0334-increasing-triplet-subsequence) |
+| [0349-intersection-of-two-arrays](https://github.com/Mukesh466/LEETCODE/tree/master/0349-intersection-of-two-arrays) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Mukesh466/LEETCODE/tree/master/0628-maximum-product-of-three-numbers) |
 | [0724-find-pivot-index](https://github.com/Mukesh466/LEETCODE/tree/master/0724-find-pivot-index) |
 | [0877-stone-game](https://github.com/Mukesh466/LEETCODE/tree/master/0877-stone-game) |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/Mukesh466/LEETCODE/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Mukesh466/LEETCODE/tree/master/0283-move-zeroes) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Mukesh466/LEETCODE/tree/master/0345-reverse-vowels-of-a-string) |
+| [0349-intersection-of-two-arrays](https://github.com/Mukesh466/LEETCODE/tree/master/0349-intersection-of-two-arrays) |
 | [0443-string-compression](https://github.com/Mukesh466/LEETCODE/tree/master/0443-string-compression) |
 | [1768-merge-strings-alternately](https://github.com/Mukesh466/LEETCODE/tree/master/1768-merge-strings-alternately) |
 ## Prefix Sum
@@ -76,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Mukesh466/LEETCODE/tree/master/0004-median-of-two-sorted-arrays) |
+| [0349-intersection-of-two-arrays](https://github.com/Mukesh466/LEETCODE/tree/master/0349-intersection-of-two-arrays) |
 | [1004-max-consecutive-ones-iii](https://github.com/Mukesh466/LEETCODE/tree/master/1004-max-consecutive-ones-iii) |
 ## Sliding Window
 |  |
@@ -101,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/Mukesh466/LEETCODE/tree/master/0217-contains-duplicate) |
+| [0349-intersection-of-two-arrays](https://github.com/Mukesh466/LEETCODE/tree/master/0349-intersection-of-two-arrays) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Mukesh466/LEETCODE/tree/master/0628-maximum-product-of-three-numbers) |
 | [1051-height-checker](https://github.com/Mukesh466/LEETCODE/tree/master/1051-height-checker) |
 | [1657-determine-if-two-strings-are-close](https://github.com/Mukesh466/LEETCODE/tree/master/1657-determine-if-two-strings-are-close) |
@@ -171,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/Mukesh466/LEETCODE/tree/master/0217-contains-duplicate) |
+| [0349-intersection-of-two-arrays](https://github.com/Mukesh466/LEETCODE/tree/master/0349-intersection-of-two-arrays) |
 | [1207-unique-number-of-occurrences](https://github.com/Mukesh466/LEETCODE/tree/master/1207-unique-number-of-occurrences) |
 | [1657-determine-if-two-strings-are-close](https://github.com/Mukesh466/LEETCODE/tree/master/1657-determine-if-two-strings-are-close) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/Mukesh466/LEETCODE/tree/master/2215-find-the-difference-of-two-arrays) |
