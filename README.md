@@ -123,10 +123,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Mukesh466/LEETCODE/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/Mukesh466/LEETCODE/tree/master/0700-search-in-a-binary-search-tree) |
+| [0872-leaf-similar-trees](https://github.com/Mukesh466/LEETCODE/tree/master/0872-leaf-similar-trees) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Mukesh466/LEETCODE/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0872-leaf-similar-trees](https://github.com/Mukesh466/LEETCODE/tree/master/0872-leaf-similar-trees) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -136,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Mukesh466/LEETCODE/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/Mukesh466/LEETCODE/tree/master/0700-search-in-a-binary-search-tree) |
+| [0872-leaf-similar-trees](https://github.com/Mukesh466/LEETCODE/tree/master/0872-leaf-similar-trees) |
 ## Bit Manipulation
 |  |
 | ------- |
