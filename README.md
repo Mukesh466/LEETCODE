@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Database
 |  |
 | ------- |
+| [0176-second-highest-salary](https://github.com/Mukesh466/LEETCODE/tree/master/0176-second-highest-salary) |
 | [0180-consecutive-numbers](https://github.com/Mukesh466/LEETCODE/tree/master/0180-consecutive-numbers) |
 | [0184-department-highest-salary](https://github.com/Mukesh466/LEETCODE/tree/master/0184-department-highest-salary) |
 | [0196-delete-duplicate-emails](https://github.com/Mukesh466/LEETCODE/tree/master/0196-delete-duplicate-emails) |
