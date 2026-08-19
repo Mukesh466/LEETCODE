@@ -179,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0443-string-compression](https://github.com/Mukesh466/LEETCODE/tree/master/0443-string-compression) |
 | [0796-rotate-string](https://github.com/Mukesh466/LEETCODE/tree/master/0796-rotate-string) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/Mukesh466/LEETCODE/tree/master/1071-greatest-common-divisor-of-strings) |
+| [1143-longest-common-subsequence](https://github.com/Mukesh466/LEETCODE/tree/master/1143-longest-common-subsequence) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Mukesh466/LEETCODE/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1657-determine-if-two-strings-are-close](https://github.com/Mukesh466/LEETCODE/tree/master/1657-determine-if-two-strings-are-close) |
 | [1768-merge-strings-alternately](https://github.com/Mukesh466/LEETCODE/tree/master/1768-merge-strings-alternately) |
@@ -215,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0338-counting-bits](https://github.com/Mukesh466/LEETCODE/tree/master/0338-counting-bits) |
 | [0877-stone-game](https://github.com/Mukesh466/LEETCODE/tree/master/0877-stone-game) |
+| [1143-longest-common-subsequence](https://github.com/Mukesh466/LEETCODE/tree/master/1143-longest-common-subsequence) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Mukesh466/LEETCODE/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 ## Game Theory
 |  |
@@ -256,4 +258,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Mukesh466/LEETCODE/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+## Longest Common Subsequence
+|  |
+| ------- |
+| [1143-longest-common-subsequence](https://github.com/Mukesh466/LEETCODE/tree/master/1143-longest-common-subsequence) |
 <!---LeetCode Topics End-->
