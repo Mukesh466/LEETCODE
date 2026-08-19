@@ -5,6 +5,4 @@ class Solution:
             occurance2=collections.Counter(t)
             if occurance1 == occurance2:
                 return True
-            else:
-                return False
         return False
