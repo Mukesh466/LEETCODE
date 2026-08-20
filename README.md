@@ -94,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Mukesh466/LEETCODE/tree/master/0003-longest-substring-without-repeating-characters) |
 | [1004-max-consecutive-ones-iii](https://github.com/Mukesh466/LEETCODE/tree/master/1004-max-consecutive-ones-iii) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Mukesh466/LEETCODE/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Mukesh466/LEETCODE/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
@@ -174,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Mukesh466/LEETCODE/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0006-zigzag-conversion](https://github.com/Mukesh466/LEETCODE/tree/master/0006-zigzag-conversion) |
 | [0151-reverse-words-in-a-string](https://github.com/Mukesh466/LEETCODE/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/Mukesh466/LEETCODE/tree/master/0242-valid-anagram) |
@@ -202,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Mukesh466/LEETCODE/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0217-contains-duplicate](https://github.com/Mukesh466/LEETCODE/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Mukesh466/LEETCODE/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/Mukesh466/LEETCODE/tree/master/0349-intersection-of-two-arrays) |
