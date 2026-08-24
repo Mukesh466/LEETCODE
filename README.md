@@ -179,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/Mukesh466/LEETCODE/tree/master/0206-reverse-linked-list) |
+| [0394-decode-string](https://github.com/Mukesh466/LEETCODE/tree/master/0394-decode-string) |
 ## String
 |  |
 | ------- |
@@ -191,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/Mukesh466/LEETCODE/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/Mukesh466/LEETCODE/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Mukesh466/LEETCODE/tree/master/0345-reverse-vowels-of-a-string) |
+| [0394-decode-string](https://github.com/Mukesh466/LEETCODE/tree/master/0394-decode-string) |
 | [0443-string-compression](https://github.com/Mukesh466/LEETCODE/tree/master/0443-string-compression) |
 | [0796-rotate-string](https://github.com/Mukesh466/LEETCODE/tree/master/0796-rotate-string) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/Mukesh466/LEETCODE/tree/master/1071-greatest-common-divisor-of-strings) |
@@ -202,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0394-decode-string](https://github.com/Mukesh466/LEETCODE/tree/master/0394-decode-string) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Mukesh466/LEETCODE/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2390-removing-stars-from-a-string](https://github.com/Mukesh466/LEETCODE/tree/master/2390-removing-stars-from-a-string) |
 ## Simulation
