@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0511-game-play-analysis-i](https://github.com/Mukesh466/LEETCODE/tree/master/0511-game-play-analysis-i) |
 | [0550-game-play-analysis-iv](https://github.com/Mukesh466/LEETCODE/tree/master/0550-game-play-analysis-iv) |
 | [0570-managers-with-at-least-5-direct-reports](https://github.com/Mukesh466/LEETCODE/tree/master/0570-managers-with-at-least-5-direct-reports) |
+| [0585-investments-in-2016](https://github.com/Mukesh466/LEETCODE/tree/master/0585-investments-in-2016) |
 | [0602-friend-requests-ii-who-has-the-most-friends](https://github.com/Mukesh466/LEETCODE/tree/master/0602-friend-requests-ii-who-has-the-most-friends) |
 | [0610-triangle-judgement](https://github.com/Mukesh466/LEETCODE/tree/master/0610-triangle-judgement) |
 | [0619-biggest-single-number](https://github.com/Mukesh466/LEETCODE/tree/master/0619-biggest-single-number) |
