@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1517-find-users-with-valid-e-mails](https://github.com/Mukesh466/LEETCODE/tree/master/1517-find-users-with-valid-e-mails) |
 | [1527-patients-with-a-condition](https://github.com/Mukesh466/LEETCODE/tree/master/1527-patients-with-a-condition) |
 | [1587-bank-account-summary-ii](https://github.com/Mukesh466/LEETCODE/tree/master/1587-bank-account-summary-ii) |
+| [1661-average-time-of-process-per-machine](https://github.com/Mukesh466/LEETCODE/tree/master/1661-average-time-of-process-per-machine) |
 | [1683-invalid-tweets](https://github.com/Mukesh466/LEETCODE/tree/master/1683-invalid-tweets) |
 | [1729-find-followers-count](https://github.com/Mukesh466/LEETCODE/tree/master/1729-find-followers-count) |
 | [1731-the-number-of-employees-which-report-to-each-employee](https://github.com/Mukesh466/LEETCODE/tree/master/1731-the-number-of-employees-which-report-to-each-employee) |
