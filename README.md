@@ -213,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0065-valid-number](https://github.com/Mukesh466/LEETCODE/tree/master/0065-valid-number) |
 | [0151-reverse-words-in-a-string](https://github.com/Mukesh466/LEETCODE/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/Mukesh466/LEETCODE/tree/master/0242-valid-anagram) |
+| [0290-word-pattern](https://github.com/Mukesh466/LEETCODE/tree/master/0290-word-pattern) |
 | [0344-reverse-string](https://github.com/Mukesh466/LEETCODE/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Mukesh466/LEETCODE/tree/master/0345-reverse-vowels-of-a-string) |
 | [0394-decode-string](https://github.com/Mukesh466/LEETCODE/tree/master/0394-decode-string) |
@@ -248,6 +249,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Mukesh466/LEETCODE/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0217-contains-duplicate](https://github.com/Mukesh466/LEETCODE/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Mukesh466/LEETCODE/tree/master/0242-valid-anagram) |
+| [0290-word-pattern](https://github.com/Mukesh466/LEETCODE/tree/master/0290-word-pattern) |
 | [0349-intersection-of-two-arrays](https://github.com/Mukesh466/LEETCODE/tree/master/0349-intersection-of-two-arrays) |
 | [1207-unique-number-of-occurrences](https://github.com/Mukesh466/LEETCODE/tree/master/1207-unique-number-of-occurrences) |
 | [1657-determine-if-two-strings-are-close](https://github.com/Mukesh466/LEETCODE/tree/master/1657-determine-if-two-strings-are-close) |
