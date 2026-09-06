@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Mukesh466/LEETCODE/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0035-search-insert-position](https://github.com/Mukesh466/LEETCODE/tree/master/0035-search-insert-position) |
 | [0042-trapping-rain-water](https://github.com/Mukesh466/LEETCODE/tree/master/0042-trapping-rain-water) |
+| [0049-group-anagrams](https://github.com/Mukesh466/LEETCODE/tree/master/0049-group-anagrams) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Mukesh466/LEETCODE/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0136-single-number](https://github.com/Mukesh466/LEETCODE/tree/master/0136-single-number) |
 | [0189-rotate-array](https://github.com/Mukesh466/LEETCODE/tree/master/0189-rotate-array) |
@@ -144,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/Mukesh466/LEETCODE/tree/master/0015-3sum) |
+| [0049-group-anagrams](https://github.com/Mukesh466/LEETCODE/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/Mukesh466/LEETCODE/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Mukesh466/LEETCODE/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/Mukesh466/LEETCODE/tree/master/0349-intersection-of-two-arrays) |
@@ -213,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0006-zigzag-conversion](https://github.com/Mukesh466/LEETCODE/tree/master/0006-zigzag-conversion) |
 | [0014-longest-common-prefix](https://github.com/Mukesh466/LEETCODE/tree/master/0014-longest-common-prefix) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Mukesh466/LEETCODE/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0049-group-anagrams](https://github.com/Mukesh466/LEETCODE/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/Mukesh466/LEETCODE/tree/master/0058-length-of-last-word) |
 | [0065-valid-number](https://github.com/Mukesh466/LEETCODE/tree/master/0065-valid-number) |
 | [0151-reverse-words-in-a-string](https://github.com/Mukesh466/LEETCODE/tree/master/0151-reverse-words-in-a-string) |
@@ -251,6 +254,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Mukesh466/LEETCODE/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Mukesh466/LEETCODE/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0049-group-anagrams](https://github.com/Mukesh466/LEETCODE/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/Mukesh466/LEETCODE/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Mukesh466/LEETCODE/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/Mukesh466/LEETCODE/tree/master/0290-word-pattern) |
