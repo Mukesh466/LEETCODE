@@ -1,4 +1,7 @@
-select e1.name from Employee e1
-join Employee e2 on e1.Id = e2.managerId
-group by e2.managerId
-having count(e2.id) >= 5;
+# Write your MySQL query statement below
+select e.name 
+from Employee e
+join Employee m
+on e.id=m.managerId
+group by m.managerId
+having count(e.id) >=5;
