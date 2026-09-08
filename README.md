@@ -102,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0345-reverse-vowels-of-a-string](https://github.com/Mukesh466/LEETCODE/tree/master/0345-reverse-vowels-of-a-string) |
 | [0349-intersection-of-two-arrays](https://github.com/Mukesh466/LEETCODE/tree/master/0349-intersection-of-two-arrays) |
 | [0443-string-compression](https://github.com/Mukesh466/LEETCODE/tree/master/0443-string-compression) |
+| [0567-permutation-in-string](https://github.com/Mukesh466/LEETCODE/tree/master/0567-permutation-in-string) |
 | [1768-merge-strings-alternately](https://github.com/Mukesh466/LEETCODE/tree/master/1768-merge-strings-alternately) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Mukesh466/LEETCODE/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Mukesh466/LEETCODE/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
@@ -123,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Mukesh466/LEETCODE/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0567-permutation-in-string](https://github.com/Mukesh466/LEETCODE/tree/master/0567-permutation-in-string) |
 | [1004-max-consecutive-ones-iii](https://github.com/Mukesh466/LEETCODE/tree/master/1004-max-consecutive-ones-iii) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Mukesh466/LEETCODE/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Mukesh466/LEETCODE/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
@@ -227,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0345-reverse-vowels-of-a-string](https://github.com/Mukesh466/LEETCODE/tree/master/0345-reverse-vowels-of-a-string) |
 | [0394-decode-string](https://github.com/Mukesh466/LEETCODE/tree/master/0394-decode-string) |
 | [0443-string-compression](https://github.com/Mukesh466/LEETCODE/tree/master/0443-string-compression) |
+| [0567-permutation-in-string](https://github.com/Mukesh466/LEETCODE/tree/master/0567-permutation-in-string) |
 | [0796-rotate-string](https://github.com/Mukesh466/LEETCODE/tree/master/0796-rotate-string) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/Mukesh466/LEETCODE/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1143-longest-common-subsequence](https://github.com/Mukesh466/LEETCODE/tree/master/1143-longest-common-subsequence) |
@@ -261,6 +264,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/Mukesh466/LEETCODE/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/Mukesh466/LEETCODE/tree/master/0290-word-pattern) |
 | [0349-intersection-of-two-arrays](https://github.com/Mukesh466/LEETCODE/tree/master/0349-intersection-of-two-arrays) |
+| [0567-permutation-in-string](https://github.com/Mukesh466/LEETCODE/tree/master/0567-permutation-in-string) |
 | [1207-unique-number-of-occurrences](https://github.com/Mukesh466/LEETCODE/tree/master/1207-unique-number-of-occurrences) |
 | [1657-determine-if-two-strings-are-close](https://github.com/Mukesh466/LEETCODE/tree/master/1657-determine-if-two-strings-are-close) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/Mukesh466/LEETCODE/tree/master/2215-find-the-difference-of-two-arrays) |
