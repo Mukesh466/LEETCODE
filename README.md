@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/Mukesh466/LEETCODE/tree/master/0035-search-insert-position) |
 | [0042-trapping-rain-water](https://github.com/Mukesh466/LEETCODE/tree/master/0042-trapping-rain-water) |
 | [0049-group-anagrams](https://github.com/Mukesh466/LEETCODE/tree/master/0049-group-anagrams) |
+| [0066-plus-one](https://github.com/Mukesh466/LEETCODE/tree/master/0066-plus-one) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Mukesh466/LEETCODE/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0136-single-number](https://github.com/Mukesh466/LEETCODE/tree/master/0136-single-number) |
 | [0189-rotate-array](https://github.com/Mukesh466/LEETCODE/tree/master/0189-rotate-array) |
@@ -133,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0007-reverse-integer](https://github.com/Mukesh466/LEETCODE/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/Mukesh466/LEETCODE/tree/master/0009-palindrome-number) |
+| [0066-plus-one](https://github.com/Mukesh466/LEETCODE/tree/master/0066-plus-one) |
 | [0189-rotate-array](https://github.com/Mukesh466/LEETCODE/tree/master/0189-rotate-array) |
 | [0371-sum-of-two-integers](https://github.com/Mukesh466/LEETCODE/tree/master/0371-sum-of-two-integers) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Mukesh466/LEETCODE/tree/master/0628-maximum-product-of-three-numbers) |
