@@ -141,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/Mukesh466/LEETCODE/tree/master/0189-rotate-array) |
 | [0371-sum-of-two-integers](https://github.com/Mukesh466/LEETCODE/tree/master/0371-sum-of-two-integers) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Mukesh466/LEETCODE/tree/master/0628-maximum-product-of-three-numbers) |
+| [0836-rectangle-overlap](https://github.com/Mukesh466/LEETCODE/tree/master/0836-rectangle-overlap) |
 | [0877-stone-game](https://github.com/Mukesh466/LEETCODE/tree/master/0877-stone-game) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/Mukesh466/LEETCODE/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Mukesh466/LEETCODE/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -359,4 +360,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Mukesh466/LEETCODE/tree/master/0020-valid-parentheses) |
+## Geometry
+|  |
+| ------- |
+| [0836-rectangle-overlap](https://github.com/Mukesh466/LEETCODE/tree/master/0836-rectangle-overlap) |
 <!---LeetCode Topics End-->
