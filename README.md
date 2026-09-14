@@ -224,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0006-zigzag-conversion](https://github.com/Mukesh466/LEETCODE/tree/master/0006-zigzag-conversion) |
 | [0014-longest-common-prefix](https://github.com/Mukesh466/LEETCODE/tree/master/0014-longest-common-prefix) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Mukesh466/LEETCODE/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0020-valid-parentheses](https://github.com/Mukesh466/LEETCODE/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/Mukesh466/LEETCODE/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/Mukesh466/LEETCODE/tree/master/0058-length-of-last-word) |
 | [0065-valid-number](https://github.com/Mukesh466/LEETCODE/tree/master/0065-valid-number) |
@@ -245,6 +246,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Mukesh466/LEETCODE/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Mukesh466/LEETCODE/tree/master/0042-trapping-rain-water) |
 | [0394-decode-string](https://github.com/Mukesh466/LEETCODE/tree/master/0394-decode-string) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Mukesh466/LEETCODE/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
@@ -353,4 +355,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Mukesh466/LEETCODE/tree/master/0042-trapping-rain-water) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/Mukesh466/LEETCODE/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
