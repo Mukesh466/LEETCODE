@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Mukesh466/LEETCODE/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0136-single-number](https://github.com/Mukesh466/LEETCODE/tree/master/0136-single-number) |
 | [0189-rotate-array](https://github.com/Mukesh466/LEETCODE/tree/master/0189-rotate-array) |
+| [0204-count-primes](https://github.com/Mukesh466/LEETCODE/tree/master/0204-count-primes) |
 | [0217-contains-duplicate](https://github.com/Mukesh466/LEETCODE/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/Mukesh466/LEETCODE/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/Mukesh466/LEETCODE/tree/master/0283-move-zeroes) |
@@ -141,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/Mukesh466/LEETCODE/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/Mukesh466/LEETCODE/tree/master/0066-plus-one) |
 | [0189-rotate-array](https://github.com/Mukesh466/LEETCODE/tree/master/0189-rotate-array) |
+| [0204-count-primes](https://github.com/Mukesh466/LEETCODE/tree/master/0204-count-primes) |
 | [0371-sum-of-two-integers](https://github.com/Mukesh466/LEETCODE/tree/master/0371-sum-of-two-integers) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Mukesh466/LEETCODE/tree/master/0628-maximum-product-of-three-numbers) |
 | [0836-rectangle-overlap](https://github.com/Mukesh466/LEETCODE/tree/master/0836-rectangle-overlap) |
@@ -152,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/Mukesh466/LEETCODE/tree/master/0204-count-primes) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Mukesh466/LEETCODE/tree/master/1979-find-greatest-common-divisor-of-array) |
 ## Sorting
 |  |
@@ -310,6 +313,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/Mukesh466/LEETCODE/tree/master/0204-count-primes) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Mukesh466/LEETCODE/tree/master/3345-smallest-divisible-digit-product-i) |
 ## Binary Search Tree
 |  |
@@ -367,4 +371,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0836-rectangle-overlap](https://github.com/Mukesh466/LEETCODE/tree/master/0836-rectangle-overlap) |
+## Primality Test
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/Mukesh466/LEETCODE/tree/master/0204-count-primes) |
+## Sieve Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/Mukesh466/LEETCODE/tree/master/0204-count-primes) |
+## Prime Number Sieve
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/Mukesh466/LEETCODE/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
