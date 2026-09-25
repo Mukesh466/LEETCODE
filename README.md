@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Mukesh466/LEETCODE/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0136-single-number](https://github.com/Mukesh466/LEETCODE/tree/master/0136-single-number) |
 | [0189-rotate-array](https://github.com/Mukesh466/LEETCODE/tree/master/0189-rotate-array) |
+| [0200-number-of-islands](https://github.com/Mukesh466/LEETCODE/tree/master/0200-number-of-islands) |
 | [0204-count-primes](https://github.com/Mukesh466/LEETCODE/tree/master/0204-count-primes) |
 | [0217-contains-duplicate](https://github.com/Mukesh466/LEETCODE/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/Mukesh466/LEETCODE/tree/master/0238-product-of-array-except-self) |
@@ -187,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Mukesh466/LEETCODE/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/Mukesh466/LEETCODE/tree/master/0199-binary-tree-right-side-view) |
+| [0200-number-of-islands](https://github.com/Mukesh466/LEETCODE/tree/master/0200-number-of-islands) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Mukesh466/LEETCODE/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0872-leaf-similar-trees](https://github.com/Mukesh466/LEETCODE/tree/master/0872-leaf-similar-trees) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Mukesh466/LEETCODE/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
@@ -195,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Mukesh466/LEETCODE/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/Mukesh466/LEETCODE/tree/master/0199-binary-tree-right-side-view) |
+| [0200-number-of-islands](https://github.com/Mukesh466/LEETCODE/tree/master/0200-number-of-islands) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Mukesh466/LEETCODE/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 ## Binary Tree
 |  |
@@ -309,6 +312,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/Mukesh466/LEETCODE/tree/master/0048-rotate-image) |
+| [0200-number-of-islands](https://github.com/Mukesh466/LEETCODE/tree/master/0200-number-of-islands) |
 | [2352-equal-row-and-column-pairs](https://github.com/Mukesh466/LEETCODE/tree/master/2352-equal-row-and-column-pairs) |
 ## Enumeration
 |  |
@@ -383,4 +387,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/Mukesh466/LEETCODE/tree/master/0204-count-primes) |
+## Union-Find
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/Mukesh466/LEETCODE/tree/master/0200-number-of-islands) |
 <!---LeetCode Topics End-->
