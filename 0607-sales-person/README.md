@@ -10,7 +10,7 @@
 | commission_rate | int     |
 | hire_date       | date    |
 +-----------------+---------+
-sales_id is the primary key (column with unique values) for this table.
+sales_id is the primary key for this table.
 Each row of this table indicates the name and the ID of a salesperson alongside their salary, commission rate, and hire date.
 </pre>
 
