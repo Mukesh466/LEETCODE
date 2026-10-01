@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/Mukesh466/LEETCODE/tree/master/0049-group-anagrams) |
 | [0066-plus-one](https://github.com/Mukesh466/LEETCODE/tree/master/0066-plus-one) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Mukesh466/LEETCODE/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Mukesh466/LEETCODE/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/Mukesh466/LEETCODE/tree/master/0136-single-number) |
 | [0189-rotate-array](https://github.com/Mukesh466/LEETCODE/tree/master/0189-rotate-array) |
 | [0200-number-of-islands](https://github.com/Mukesh466/LEETCODE/tree/master/0200-number-of-islands) |
@@ -300,6 +301,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Mukesh466/LEETCODE/tree/master/0042-trapping-rain-water) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Mukesh466/LEETCODE/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0338-counting-bits](https://github.com/Mukesh466/LEETCODE/tree/master/0338-counting-bits) |
 | [0877-stone-game](https://github.com/Mukesh466/LEETCODE/tree/master/0877-stone-game) |
 | [1143-longest-common-subsequence](https://github.com/Mukesh466/LEETCODE/tree/master/1143-longest-common-subsequence) |
