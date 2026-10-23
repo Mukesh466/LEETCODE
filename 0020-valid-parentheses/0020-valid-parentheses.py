@@ -11,10 +11,12 @@ class Solution:
                 if not ans:
                     return False
                 top=ans.pop()
+
                 if ch == ")" and top !="(":
                     return False
                 if ch == "}" and top !="{":
                     return False
                 if ch == "]" and top !="[":
                     return False
+                    
         return not ans
