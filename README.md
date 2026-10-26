@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/Mukesh466/LEETCODE/tree/master/0042-trapping-rain-water) |
 | [0048-rotate-image](https://github.com/Mukesh466/LEETCODE/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/Mukesh466/LEETCODE/tree/master/0049-group-anagrams) |
+| [0051-n-queens](https://github.com/Mukesh466/LEETCODE/tree/master/0051-n-queens) |
 | [0066-plus-one](https://github.com/Mukesh466/LEETCODE/tree/master/0066-plus-one) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Mukesh466/LEETCODE/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Mukesh466/LEETCODE/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -364,6 +365,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Mukesh466/LEETCODE/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0051-n-queens](https://github.com/Mukesh466/LEETCODE/tree/master/0051-n-queens) |
 ## Trie
 |  |
 | ------- |
@@ -404,4 +406,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/Mukesh466/LEETCODE/tree/master/0200-number-of-islands) |
+## Algorithm X
+|  |
+| ------- |
+| [0051-n-queens](https://github.com/Mukesh466/LEETCODE/tree/master/0051-n-queens) |
 <!---LeetCode Topics End-->
