@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Mukesh466/LEETCODE/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Mukesh466/LEETCODE/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/Mukesh466/LEETCODE/tree/master/0136-single-number) |
+| [0169-majority-element](https://github.com/Mukesh466/LEETCODE/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/Mukesh466/LEETCODE/tree/master/0179-largest-number) |
 | [0189-rotate-array](https://github.com/Mukesh466/LEETCODE/tree/master/0189-rotate-array) |
 | [0200-number-of-islands](https://github.com/Mukesh466/LEETCODE/tree/master/0200-number-of-islands) |
@@ -175,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/Mukesh466/LEETCODE/tree/master/0015-3sum) |
 | [0049-group-anagrams](https://github.com/Mukesh466/LEETCODE/tree/master/0049-group-anagrams) |
+| [0169-majority-element](https://github.com/Mukesh466/LEETCODE/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/Mukesh466/LEETCODE/tree/master/0179-largest-number) |
 | [0217-contains-duplicate](https://github.com/Mukesh466/LEETCODE/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Mukesh466/LEETCODE/tree/master/0242-valid-anagram) |
@@ -187,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting Sort
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Mukesh466/LEETCODE/tree/master/0169-majority-element) |
 | [1051-height-checker](https://github.com/Mukesh466/LEETCODE/tree/master/1051-height-checker) |
 | [1657-determine-if-two-strings-are-close](https://github.com/Mukesh466/LEETCODE/tree/master/1657-determine-if-two-strings-are-close) |
 ## Tree
@@ -302,6 +305,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/Mukesh466/LEETCODE/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Mukesh466/LEETCODE/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0049-group-anagrams](https://github.com/Mukesh466/LEETCODE/tree/master/0049-group-anagrams) |
+| [0169-majority-element](https://github.com/Mukesh466/LEETCODE/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Mukesh466/LEETCODE/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Mukesh466/LEETCODE/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Mukesh466/LEETCODE/tree/master/0268-missing-number) |
@@ -335,6 +339,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Mukesh466/LEETCODE/tree/master/0004-median-of-two-sorted-arrays) |
+| [0169-majority-element](https://github.com/Mukesh466/LEETCODE/tree/master/0169-majority-element) |
 ## Matrix
 |  |
 | ------- |
@@ -423,4 +428,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0051-n-queens](https://github.com/Mukesh466/LEETCODE/tree/master/0051-n-queens) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Mukesh466/LEETCODE/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
